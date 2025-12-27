@@ -44,5 +44,3 @@ npm install
 npm run dev
 
 
-## 📂 Folder Structure
-
