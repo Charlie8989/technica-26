@@ -9,11 +9,11 @@ export default function BackgroundRippleEffectDemo() {
       <BackgroundRippleEffect />
       <div className="mt-60 w-full">
         <h2
-          className="relative z-10 mx-auto max-w-4xl text-center text-6xl font-bold text-neutral-800 md:text-4xl lg:text-7xl dark:text-neutral-100">
+          className="relative z-10 mx-auto max-w-4xl text-center text-6xl font-bold bg-gradient-to-b from-orange-500 to-red-500 bg-clip-text text-transparent md:text-4xl lg:text-7xl ">
           Technica 2k26
         </h2>
         <p
-          className="relative z-10 mx-auto mt-4 max-w-xl text-center text-neutral-800 dark:text-neutral-500">
+          className="relative z-10 mx-auto mt-4 max-w-xl text-center text-white">
           The Official Branch Fest of the Department of Metallurgical and Materials Engineering, National Institute of Technology Jamshedpur.
         </p>
       </div>
